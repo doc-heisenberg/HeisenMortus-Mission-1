@@ -1,0 +1,9 @@
+// Trigger für Missions Ende Notebook abliefern.
+condition : this && {!isNil "lapTop"} && {lapTop in thisList} 
+on act: 
+
+HQ Sidechat "Laptop wurde abgeliefert ; Daten werden entschlüsselt!"
+sleep3;
+HQ Sidechat " Gute Arbeit wir haben die Flugdaten vom General. Wir haben die Missionsparameter aktualisiert.";
+Sleep3;
+HQ Sidechat " Viel Erfolg, Over";
