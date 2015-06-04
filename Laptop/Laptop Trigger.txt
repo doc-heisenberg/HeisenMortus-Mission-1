@@ -7,3 +7,4 @@ sleep3;
 HQ Sidechat " Gute Arbeit wir haben die Flugdaten vom General. Wir haben die Missionsparameter aktualisiert.";
 Sleep3;
 HQ Sidechat " Viel Erfolg, Over";
+
