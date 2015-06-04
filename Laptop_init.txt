@@ -1,0 +1,2 @@
+Laptop Init :
+this addaction ["Pick Up Laptop","NewAddaction.sqf"];
