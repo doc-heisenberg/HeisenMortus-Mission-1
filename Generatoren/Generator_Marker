@@ -1,0 +1,3 @@
+"genmkr" setmarkerpos getpos generator; 
+			"genmkr" setMarkerColor "colorRED";
+			"genmkr" setMarkerType "hd_destroy";
